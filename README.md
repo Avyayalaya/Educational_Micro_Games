@@ -1,2 +1,2 @@
 # micro_games
-Claude Artifacts
+Made with AI. Manus, Claude
